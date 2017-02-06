@@ -3,6 +3,7 @@ Git is free software distributed under the GPL
 
 here is a new line
 
+hello!
 new line more
 new line three times
 
