@@ -10,4 +10,8 @@ new line three times
 test for master in github
 
 
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick AND simple
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
